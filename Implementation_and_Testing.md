@@ -9,13 +9,13 @@
 ## I&T 4
 
 ## I&T 5
-![](it/IT5a.png)
-![](it/IT5b.png)
-![](it/IT5c.png)
+![](it/IT5a.png?raw=true)
+![](it/IT5b.png?raw=true)
+![](it/IT5c.png?raw=true)
 
 ## I&T 6
-![](it/IT6a.png)
-![](it/IT6b.png)
-![](it/IT6c.png)
+![](it/IT6a.png?raw=true)
+![](it/IT6b.png?raw=true)
+![](it/IT6c.png?raw=true)
 
 ## I&T 7
